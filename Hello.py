@@ -1,2 +1,2 @@
 print("Hello World")
-input("Is it all right? yes/no")
+x=input("Is it all right? yes/no")
