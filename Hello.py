@@ -6,3 +6,5 @@ if x=yes:
     print("Best wishes")
 else:
     print("Wish you a good life")
+
+y=print("Write your suggestions : )   
